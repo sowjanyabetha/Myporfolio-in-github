@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Myporfolio-in-github/static/css/main.fbc166b2.chunk.css",
+    "main.js": "/Myporfolio-in-github/static/js/main.dc92ffe7.chunk.js",
+    "main.js.map": "/Myporfolio-in-github/static/js/main.dc92ffe7.chunk.js.map",
+    "runtime-main.js": "/Myporfolio-in-github/static/js/runtime-main.374db4d0.js",
+    "runtime-main.js.map": "/Myporfolio-in-github/static/js/runtime-main.374db4d0.js.map",
+    "static/css/2.0bae969b.chunk.css": "/Myporfolio-in-github/static/css/2.0bae969b.chunk.css",
+    "static/js/2.e9af5433.chunk.js": "/Myporfolio-in-github/static/js/2.e9af5433.chunk.js",
+    "static/js/2.e9af5433.chunk.js.map": "/Myporfolio-in-github/static/js/2.e9af5433.chunk.js.map",
+    "static/js/3.affef783.chunk.js": "/Myporfolio-in-github/static/js/3.affef783.chunk.js",
+    "static/js/3.affef783.chunk.js.map": "/Myporfolio-in-github/static/js/3.affef783.chunk.js.map",
+    "index.html": "/Myporfolio-in-github/index.html",
+    "static/css/2.0bae969b.chunk.css.map": "/Myporfolio-in-github/static/css/2.0bae969b.chunk.css.map",
+    "static/css/main.fbc166b2.chunk.css.map": "/Myporfolio-in-github/static/css/main.fbc166b2.chunk.css.map",
+    "static/js/2.e9af5433.chunk.js.LICENSE.txt": "/Myporfolio-in-github/static/js/2.e9af5433.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.374db4d0.js",
+    "static/css/2.0bae969b.chunk.css",
+    "static/js/2.e9af5433.chunk.js",
+    "static/css/main.fbc166b2.chunk.css",
+    "static/js/main.dc92ffe7.chunk.js"
+  ]
+}
