@@ -10,13 +10,14 @@ class Contact extends Component {
           <Cell col={6}>
             <h2>Sowjanya Betha</h2>
             <img
-              src="https://www.shareicon.net/download/2015/09/18/103157_man_512x512.png"
+              src="https://www.shareicon.net/data/128x128/2016/08/18/810214_user_512x512.png"
               alt="avatar"
               style={{height: '250px'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Software Developer at <strong>Qolsys</strong> with 2 years experience in developing
-             native Android application and framework using java( Implemented key features for the project which Qolsys working on)
-             </p>
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Java full stack developer having hands on experience in developing web applications using spring, Rest
+based Web services and having experience in developing Android applications using Android Studio,
+SQLite Database, Java, XML, and Android SDK
+ </p>
 
           </Cell>
           <Cell col={6}>

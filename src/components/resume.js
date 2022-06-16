@@ -13,7 +13,7 @@ class Resume extends Component {
           <Cell col={4}>
             <div style={{textAlign: 'center'}}>
               <img
-                src="https://www.shareicon.net/download/2015/09/18/103157_man_512x512.png"
+                src="https://www.shareicon.net/data/128x128/2016/08/18/810214_user_512x512.png"
                 alt="avatar"
                 style={{height: '200px'}}
                  />
@@ -32,37 +32,45 @@ class Resume extends Component {
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
-            <h2>Education</h2>
-
-
-            <Education
-              startYear={2014}
-              endYear={2018}
-              schoolName="Bachelor's Degree in Computer Science - 81%"
-              schoolDescription="Gayatri Vidya Parishad College for Degree and PG Courses"
-               />
-
-                <hr style={{borderTop: '3px solid #e22947'}} />
 
               <h2>Experience</h2>
 
+              <Experience
+              startYear={"Oct 2021"}
+              endYear={"Present"}
+              jobName="Senior Software Engineer at PureSoftware"
+              jobDescription="Implemented Backend services (developed Controller for request, response by Spring Controllers
+                using Spring-MVC, used JSON as response type in REST services"
+              />
+
             <Experience
-              startYear={2018}
+              startYear={"Dec 2018"}
+              endYear={"Aug 2021"}
               jobName="Software Developer at Qolsys"
-              jobDescription="Software Developer at with 2 years experience in developing native Android application and framework using java( Implemented key features for the project which Qolsys working on)"
+              jobDescription="Software Developer at with 2+ years experience in developing native Android application and framework using java( Implemented key features for the project which Qolsys working on)"
               />
 
               <Experience
-                startYear={2017}
-                endYear={2017}
+                startYear={"May 2017"}
+                endYear={"June 2017"}
                 jobName="Front End Developer at Namaste Vizag"
-                jobDescription="Involved in designing the user experience interface. Developed web pages using HTML/CSSS and JavaScript. Good understanding of Model View Controller MVC framework. Fixed bugs and provided support services for the application
-"
+                jobDescription="Involved in designing the user experience interface. Developed web pages using HTML/CSSS and JavaScript. Good understanding of Model View Controller MVC framework. Fixed bugs and provided support services for the application"
                 />
+                
+                <hr style={{borderTop: '3px solid #e22947'}} />
+
+                 <h2>Education</h2>
+                 <Education
+                  startYear={2014}
+                  endYear={2018}
+                  schoolName="Bachelor's Degree in Computer Science - 81%"
+                  schoolDescription="Gayatri Vidya Parishad College for Degree and PG Courses"
+                  />
+
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
               <Skills
-                skill="javascript"
+                skill="Java"
                 progress={100}
                 />
                 <Skills
@@ -70,15 +78,13 @@ class Resume extends Component {
                   progress={80}
                   />
                   <Skills
-                    skill="NodeJS"
+                    skill="JavaScript"
                     progress={50}
                     />
                     <Skills
-                      skill="React"
+                      skill="React JS"
                       progress={25}
                       />
-
-
           </Cell>
         </Grid>
       </div>
